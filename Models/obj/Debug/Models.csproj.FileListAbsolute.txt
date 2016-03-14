@@ -1,0 +1,14 @@
+C:\Work\Sample\Models\bin\Debug\Models.dll
+C:\Work\Sample\Models\bin\Debug\Models.pdb
+C:\Work\Sample\Models\bin\Debug\Castle.Core.dll
+C:\Work\Sample\Models\bin\Debug\Glass.Mapper.dll
+C:\Work\Sample\Models\bin\Debug\Glass.Mapper.Sc.dll
+C:\Work\Sample\Models\bin\Debug\Sitecore.Client.dll
+C:\Work\Sample\Models\bin\Debug\Sitecore.Kernel.dll
+C:\Work\Sample\Models\bin\Debug\Castle.Core.xml
+C:\Work\Sample\Models\bin\Debug\Glass.Mapper.xml
+C:\Work\Sample\Models\bin\Debug\Glass.Mapper.Sc.pdb
+C:\Work\Sample\Models\bin\Debug\Glass.Mapper.Sc.xml
+C:\Work\Sample\Models\obj\Debug\Models.dll
+C:\Work\Sample\Models\obj\Debug\Models.pdb
+C:\Work\Sample\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

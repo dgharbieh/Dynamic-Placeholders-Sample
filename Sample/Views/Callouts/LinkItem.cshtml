@@ -1,0 +1,24 @@
+﻿@using Models.Callouts
+@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<LinkItem>
+@if (Model != null)
+{
+
+if (Model.Link != null)
+{
+    <li>
+        @using (BeginRenderLink(Model,m => m.Link, isEditable: true))
+        {
+            <i class="icon-arrow-circle-right"></i><span class="label">@Editable(Model, m => m.Title)</span>
+
+        }
+    </li>
+}
+else
+{
+    <li>
+        <a href="#">
+            <i class="icon-arrow-circle-right"></i><span class="label">@Editable(Model, m => m.Title)</span>
+        </a>
+    </li>
+}
+}

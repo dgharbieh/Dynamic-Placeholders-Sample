@@ -1,0 +1,19 @@
+﻿@using Sitecore.Mvc.Presentation
+@using Sitecore.Mvc
+@using Glass.Mapper.Sc
+@using Glass.Mapper.Sc.Fields;
+@using Models.Callouts
+@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<LinksCallout>
+    <div >
+    <header class="link-box-header">
+        <h4 class="link-box-title">
+            @Editable(Model, m => m.Title)
+        </h4>
+    </header>
+    <div class="link-box-content">
+     <ul class="link-box-links">
+                @Html.Sitecore().DynamicPlaceholder("grouplinks")   
+    </ul>            
+    </div>
+</div>
+

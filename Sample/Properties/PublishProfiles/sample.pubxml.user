@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Sample\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/Dynamic Placeholders.config">
+      <publishTime>03/10/2016 15:25:03</publishTime>
+    </File>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.CodeFirst.config.exclude">
+      <publishTime>03/10/2016 11:55:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.config">
+      <publishTime>03/10/2016 11:55:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.Start.config">
+      <publishTime>03/10/2016 11:55:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/z.Glass.Mapper.Sc.ViewRender.config.exclude">
+      <publishTime>03/10/2016 11:55:09</publishTime>
+    </File>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>03/10/2016 11:54:49</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.dll">
+      <publishTime>03/10/2016 11:54:50</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.pdb">
+      <publishTime>03/10/2016 11:54:50</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.dll">
+      <publishTime>03/10/2016 11:54:50</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.Mvc.dll">
+      <publishTime>03/10/2016 11:54:50</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.Mvc.pdb">
+      <publishTime>03/10/2016 11:54:50</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.pdb">
+      <publishTime>03/10/2016 11:54:50</publishTime>
+    </File>
+    <File Include="bin/Models.dll">
+      <publishTime>03/13/2016 11:23:50</publishTime>
+    </File>
+    <File Include="bin/Models.pdb">
+      <publishTime>03/13/2016 11:23:50</publishTime>
+    </File>
+    <File Include="bin/Sample.dll">
+      <publishTime>03/14/2016 10:06:20</publishTime>
+    </File>
+    <File Include="bin/Sample.pdb">
+      <publishTime>03/14/2016 10:06:20</publishTime>
+    </File>
+    <File Include="bin/SCExtensions.dll">
+      <publishTime>03/14/2016 10:06:19</publishTime>
+    </File>
+    <File Include="bin/SCExtensions.pdb">
+      <publishTime>03/14/2016 10:06:19</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Client.dll">
+      <publishTime>12/07/2015 13:47:06</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>12/07/2015 13:47:18</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>12/07/2015 13:47:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/10/2016 11:33:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/10/2016 11:33:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/10/2016 11:33:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>03/10/2016 11:33:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>03/10/2016 11:33:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>03/10/2016 11:33:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/10/2016 11:33:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/10/2016 11:55:18</publishTime>
+    </File>
+    <File Include="Views/Callouts/LinkItem.cshtml">
+      <publishTime>03/10/2016 16:04:39</publishTime>
+    </File>
+    <File Include="Views/Callouts/LinksCallout.cshtml">
+      <publishTime>03/10/2016 13:10:40</publishTime>
+    </File>
+    <File Include="Views/Shared/MainLayout.cshtml">
+      <publishTime>11/23/2015 18:09:50</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>03/10/2016 16:57:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/10/2016 16:57:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

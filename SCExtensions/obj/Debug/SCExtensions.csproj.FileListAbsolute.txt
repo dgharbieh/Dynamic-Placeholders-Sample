@@ -1,0 +1,15 @@
+C:\Work\Sample\SCExtensions\bin\Debug\SCExtensions.dll
+C:\Work\Sample\SCExtensions\bin\Debug\SCExtensions.pdb
+C:\Work\Sample\SCExtensions\bin\Debug\Castle.Core.dll
+C:\Work\Sample\SCExtensions\bin\Debug\Glass.Mapper.dll
+C:\Work\Sample\SCExtensions\bin\Debug\Glass.Mapper.Sc.dll
+C:\Work\Sample\SCExtensions\bin\Debug\Sitecore.Client.dll
+C:\Work\Sample\SCExtensions\bin\Debug\Sitecore.Kernel.dll
+C:\Work\Sample\SCExtensions\bin\Debug\Sitecore.Mvc.dll
+C:\Work\Sample\SCExtensions\bin\Debug\Castle.Core.xml
+C:\Work\Sample\SCExtensions\bin\Debug\Glass.Mapper.xml
+C:\Work\Sample\SCExtensions\bin\Debug\Glass.Mapper.Sc.pdb
+C:\Work\Sample\SCExtensions\bin\Debug\Glass.Mapper.Sc.xml
+C:\Work\Sample\SCExtensions\obj\Debug\SCExtensions.dll
+C:\Work\Sample\SCExtensions\obj\Debug\SCExtensions.pdb
+C:\Work\Sample\SCExtensions\obj\Debug\SCExtensions.csprojResolveAssemblyReference.cache
